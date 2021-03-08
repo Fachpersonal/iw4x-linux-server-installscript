@@ -54,9 +54,9 @@ else
     echo "### Continuing ###"
     echo "### Adding urls to download_list.txt ###"
 	cat > /home/"$username"/download_list.txt <<EOF
-	http://downloads.warzone.gg/IW4M/MW2.zip
-	http://downloads.warzone.gg/IW4M/iw4x_files.zip
-	http://downloads.warzone.gg/IW4M/iw4x_dlc.zip
+	https://ddl.7z7.link/dl/MW2.zip
+	https://ddl.7z7.link/dl/iw4x_files.zip
+	https://ddl.7z7.link/dl/iw4x_dlc.zip
 EOF
 
 
